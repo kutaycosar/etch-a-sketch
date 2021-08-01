@@ -1,0 +1,22 @@
+.row {
+    
+    float: left;
+}
+
+.box {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+}
+
+#container {
+    border-style: outset;
+    
+    
+}
+
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
